@@ -2,6 +2,9 @@
     - The two completed Trailhead modules:
         - ![alt text](image-3.png)
         - ![alt text](image-4.png)
+    - Tableau Visualizations:
+      - ![alt text](image-7.png)
+      ![alt text](image-8.png)
       - The public URL to Tableau Public viz:
         - https://public.tableau.com/views/Chronicdiseaseratesbystate/Map?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
